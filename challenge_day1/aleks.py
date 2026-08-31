@@ -1,2 +1,2 @@
-def get_name():
-    return "Ola"
+def get_aleks_name():
+    return "Aleks"
