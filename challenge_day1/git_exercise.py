@@ -3,7 +3,7 @@ import muni
 import lula
 import ebony
 import tiara1
-import nan1
+import nan
 
 def introduction():
     print("This is Team Mental. We are:")
@@ -12,7 +12,7 @@ def introduction():
     print(lula.get_lula_name())
     print(ebony.get_ebony_name())
     print(tiara1.get_tiara_name())
-    print(nan1.get_nan1_name())
+    print(nan.get_nan_name())
 
 
 
