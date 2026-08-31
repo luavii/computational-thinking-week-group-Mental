@@ -4,7 +4,7 @@ import lula
 import ebony
 
 def introduction():
-    print("This is Team YourTeamNameHere. We are:")
+    print("This is Team Mental. We are:")
     print(aleks.get_aleks_name())
     print(muni.get_muni_name())
     print(lula.get_lula_name())
