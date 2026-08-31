@@ -2,7 +2,7 @@ import aleks
 import muni
 import lula
 import ebony
-import tiara
+import tiara1
 import nan1
 
 def introduction():
@@ -11,7 +11,7 @@ def introduction():
     print(muni.get_muni_name())
     print(lula.get_lula_name())
     print(ebony.get_ebony_name())
-    print(tiara.get_tiara_name())
+    print(tiara1.get_tiara_name())
     print(nan1.get_nan1_name())
 
 
