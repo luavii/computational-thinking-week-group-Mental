@@ -1,1 +1,2 @@
-print("Ebony's file")
+def get_ebony_name():
+  return "Ebony"
