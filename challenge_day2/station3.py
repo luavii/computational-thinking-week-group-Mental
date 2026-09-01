@@ -1,8 +1,8 @@
 def solution_station_3(x):
 
     if x % 3 == 0:
-        answer = True
+        tf = bool()
     else:
-        answer = False
+        tf = bool(1)
 
-    return print(answer)
+    return print(tf)
