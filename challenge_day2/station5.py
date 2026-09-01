@@ -15,9 +15,9 @@ def solution_station_5(student):
     elif student in lt_4:
         team = 4
     else:
-        print("they dont belong here.")
+        team = 0
 
-        
+    team = int(team) 
     
     return team
 
