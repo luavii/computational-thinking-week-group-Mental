@@ -17,6 +17,4 @@ def solution_station_1(n):
         a, b = b, a + b
 
     print(f"{n} is {b} in the Fibonacci sequence")
-
-
-solution_station_1 ()
+    return b
