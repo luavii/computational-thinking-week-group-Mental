@@ -17,9 +17,9 @@ def solution_station_5(student):
     else:
         team = 0
 
-    team = int(team) 
+    teams = int(team) 
     
-    return team
+    return teams
 
 
 ##solution_station_5("Jeremy")
