@@ -2,7 +2,7 @@ from datetime import datetime
 
 def solution_station_2(x):
     
-    userdate  =datetime.strptime(x, "%Y-%m-%d")
+    userdate = datetime.strptime(x, "%Y-%m-%d")
     userday = userdate.strftime("%A")
     japanese_days = {
         "Monday" : "月曜日",
