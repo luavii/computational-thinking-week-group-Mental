@@ -22,9 +22,6 @@ def solution_station_2():
         }
     return japanese_days[userday]
 
-solution_station_2()
-   
-
 
 
 

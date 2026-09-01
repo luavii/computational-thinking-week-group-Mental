@@ -4,4 +4,7 @@ def solution_station_7(x):
     c = 4
     d = 7
     e = 0.5
-    return float(a + b + c + d + e)
+
+    expression = x
+    answer = eval(expression)
+    return float(answer)
