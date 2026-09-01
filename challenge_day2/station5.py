@@ -1,7 +1,7 @@
 def solution_station_5(student):
     team = None
     
-    lt_1 = ["john","noah"]
+    lt_1 = ["tiara","ebony","nandini","nathan","ben","muni","lula","tobit","zoe","klemtanyna", "julia",]
     lt_2 = ["bill","pol"]
     lt_3 = ["mac","flax"]
 
