@@ -1,7 +1,12 @@
 def solution_station_4(x):
-    x = int(x)
-    if x % 2 != 0:
-        tf = bool(1)
+    if x <= 1:
+        tf = False
     else:
-        tf = bool()
+        tf = True
+
+        for i in range(2, int(n**0.5) + 1):
+            if x % i == 0:
+                tf = False
+                break
+
     return tf
