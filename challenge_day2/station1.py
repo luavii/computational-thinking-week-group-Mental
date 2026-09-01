@@ -1,5 +1,4 @@
-def solution_station_1 ():
-    n = int(input("Enter a number: "))
+def solution_station_1(n):
 
     if n < 0:
         print("Please enter a non-negative number.")
