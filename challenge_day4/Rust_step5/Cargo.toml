@@ -1,9 +1,7 @@
 [package]
-name = "Rust_step5"
+name = "rust_step5"
 version = "0.1.0"
-edition = "2024"
-
-[dependencies]
+edition = "2021"
 
 [[bin]]
 name = "evaluation"
